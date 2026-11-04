@@ -14,12 +14,12 @@
 ## 界面预览
 
 <p align="center">
-  <img src=".github/assets/screenshots/feature-jobs.webp" alt="任务管理页：任务列表按项目、类型与状态筛选，每行展示 cron 表达式与时区、下次执行与最近执行时间，右侧提供编辑、手动触发、暂停 / 取消入口" width="1440">
+  <img src=".github/assets/imgs/feature-jobs.webp" alt="任务管理页：任务列表按项目、类型与状态筛选，每行展示 cron 表达式与时区、下次执行与最近执行时间，右侧提供编辑、手动触发、暂停 / 取消入口" width="1440">
 </p>
 
 | 执行记录 | 项目管理 |
 |---|---|
-| <img src=".github/assets/screenshots/feature-executions.webp" alt="执行记录页：按项目、任务、状态、触发方式与计划执行时间区间筛选，列表展示状态、耗时、重试次数与下游回调状态码" width="720"> | <img src=".github/assets/screenshots/feature-projects.webp" alt="项目管理页：每个接入项目一张卡片，展示回调地址、项目令牌与 signing key 的指纹及轮换入口，明文凭据不落库" width="720"> |
+| <img src=".github/assets/imgs/feature-executions.webp" alt="执行记录页：按项目、任务、状态、触发方式与计划执行时间区间筛选，列表展示状态、耗时、重试次数与下游回调状态码" width="720"> | <img src=".github/assets/imgs/feature-projects.webp" alt="项目管理页：每个接入项目一张卡片，展示回调地址、项目令牌与 signing key 的指纹及轮换入口，明文凭据不落库" width="720"> |
 
 ## 架构（骨架已定型）
 
