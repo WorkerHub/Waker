@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   verify:
-    name: typecheck / lint / test / build
+    name: Validate
     runs-on: ubuntu-latest
     env:
       # 非部署 job 用占位值：只用于验证代码能在「密钥存在」的前提下构建/测试，
